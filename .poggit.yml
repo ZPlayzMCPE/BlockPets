@@ -2,7 +2,7 @@
 branches:
 - master
 projects:
-  BlockPets:
+  BlockPets-Latest:
     path: ""
     icon: resources/BlockPetsLogo.png
     libs:
